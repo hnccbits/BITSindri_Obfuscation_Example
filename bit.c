@@ -1,3 +1,7 @@
+/*
+ Author: Anjani Kumar, IT, 2018
+*/
+
 _main(_,__,___){
 char *GODS_LAUGH_AT_US="a guy named ANJANI made this....\
 ?h=hJCLAL^ F+F%%BGBGB+=KBE&j%%BHBFBKB&&o%%BHBFBKB**_*P%%BHBFBKB8!n A%%KGBF EB**_*P\
